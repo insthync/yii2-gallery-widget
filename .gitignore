@@ -22,3 +22,12 @@ nbproject
 # mac deployment helpers
 switch
 index
+
+# composer
+composer.lock
+
+# npm
+package.lock
+
+# yarn
+yarn.lock
