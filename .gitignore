@@ -28,6 +28,7 @@ composer.lock
 
 # npm
 package.lock
+node_modules
 
 # yarn
 yarn.lock
