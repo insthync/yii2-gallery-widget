@@ -1,12 +1,5 @@
 # Gallery Widget for Yii2
 
-[![Latest Version](https://img.shields.io/github/tag/2amigos/yii2-gallery-widget.svg?style=flat-square&label=release)](https://github.com/2amigos/yii2-gallery-widget/tags)
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Build Status](https://img.shields.io/travis/2amigos/yii2-gallery-widget/master.svg?style=flat-square)](https://travis-ci.org/2amigos/yii2-gallery-widget)
-[![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/2amigos/yii2-gallery-widget.svg?style=flat-square)](https://scrutinizer-ci.com/g/2amigos/yii2-gallery-widget/code-structure)
-[![Quality Score](https://img.shields.io/scrutinizer/g/2amigos/yii2-gallery-widget.svg?style=flat-square)](https://scrutinizer-ci.com/g/2amigos/yii2-gallery-widget)
-[![Total Downloads](https://img.shields.io/packagist/dt/2amigos/yii2-gallery-widget.svg?style=flat-square)](https://packagist.org/packages/2amigos/yii2-gallery-widget)
-
 Renders a BlueImp Gallery and/or Carousel. BlueImp Gallery is a touch-enabled, responsive and customizable image & video
 gallery, carousel and lightbox, optimized for both mobile and desktop web browsers. It features swipe, mouse and keyboard
 navigation, transition effects, slideshow functionality, fullscreen support and on-demand content loading and can be
@@ -21,13 +14,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```bash
-$ composer require 2amigos/yii2-gallery-widget:~1.0
+$ composer require insthync/yii2-gallery-widget:dev-master
 ```
 
 or add
 
 ```
-"2amigos/yii2-gallery-widget": "~1.0"
+"insthync/yii2-gallery-widget": "dev-master"
 ```
 
 to the `require` section of your `composer.json` file.
