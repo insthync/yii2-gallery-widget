@@ -1,6 +1,6 @@
 {
     "name": "insthync/yii2-gallery-widget",
-    "description": "Blueimp gallery widget for the Yii framework",
+    "description": "Blueimp gallery widget for the Yii framework (Forked from https://github.com/2amigos/yii2-gallery-widget to update for latest Yii2)",
     "keywords": [
         "2amigos",
         "yii",
